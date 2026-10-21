@@ -1,0 +1,18 @@
+Package: firemath
+Type: Package
+Title: Withdrawal-Rate and Savings-Rate Arithmetic for Early Retirement
+Version: 0.1.0
+Authors@R: person("James", "Verlander", email = "scrapertweeter3@gmail.com", role = c("aut", "cre"))
+Maintainer: James Verlander <scrapertweeter3@gmail.com>
+Description: Two small calculators for financial-independence planning:
+    fire_math() stress-tests a fixed real withdrawal against a
+    constant-real-return portfolio and reports the first failed year, the
+    check the 4% rule skips at long horizons; fire_savings_rate() converts
+    a savings rate into years to financial independence at a 4% withdrawal
+    rate. Companion to the withdrawal-math writing on Firenomics
+    <https://firenomics.com>.
+License: MIT + file LICENSE
+Encoding: UTF-8
+URL: https://firenomics.com
+BugReports: https://github.com/scrapertweeter3-prog/firemath-r/issues
+RoxygenNote: 7.3.1
