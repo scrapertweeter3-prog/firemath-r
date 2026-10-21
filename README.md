@@ -14,3 +14,13 @@ fire_math(1000000, 40000, real_return = 4, years = 50)
 fire_savings_rate(80000, 48000)
 # $savings_rate 0.4  $years_to_fi_at_4pct 27.1
 ```
+
+## Install
+
+```r
+install.packages("firemath", repos = c(
+  "https://scrapertweeter3-prog.r-universe.dev",
+  "https://cloud.r-project.org"))
+```
+
+FIRE Withdrawal Math: benchmark math from the Poket Dev research desk.
