@@ -1,0 +1,8 @@
+{
+  "name": "firemath-r",
+  "version": "0.1.0",
+  "description": "Withdrawal-rate survival and savings-rate arithmetic for early retirement",
+  "license": "MIT",
+  "repository": "https://github.com/scrapertweeter3-prog/firemath-r",
+  "homepage": "https://firenomics.com"
+}
